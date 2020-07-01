@@ -1,1 +1,1 @@
-# assignment-4-ap3901-antonpriyanka
+# Wine Quality Prediction from Review Texts using Word vectors and Bag of Words model
